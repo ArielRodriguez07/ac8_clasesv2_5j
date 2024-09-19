@@ -1,12 +1,14 @@
 # ac8_clasesv2_5j
 ## codigo
 
-![image](https://github.com/user-attachments/assets/b8b2235b-b40d-41e3-85c6-306f49e7a4fe)
-![image](https://github.com/user-attachments/assets/790eb224-db9f-4370-b9ee-7648fe2b5598)
+![image](https://github.com/user-attachments/assets/d795c627-2015-49f5-aa58-cd963df88ac5)
+![image](https://github.com/user-attachments/assets/e60f53a7-0a0b-4e26-95d0-a106f6e45e7c)
+
 
 
 
 # resultado
 
-![image](https://github.com/user-attachments/assets/12c162ff-f27f-4da7-b3be-684676a8bbc1)
+![image](https://github.com/user-attachments/assets/733eb841-5d1d-4ab0-a2cd-2823995e00a2)
+
 
