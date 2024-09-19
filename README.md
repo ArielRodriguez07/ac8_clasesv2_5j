@@ -2,8 +2,11 @@
 ## codigo
 
 ![image](https://github.com/user-attachments/assets/b8b2235b-b40d-41e3-85c6-306f49e7a4fe)
-![image](https://github.com/user-attachments/assets/3c1732d9-a095-4699-ade8-ba33e1618d44)
+![image](https://github.com/user-attachments/assets/790eb224-db9f-4370-b9ee-7648fe2b5598)
+
+
 
 # resultado
 
-![image](https://github.com/user-attachments/assets/67675a47-2c2e-44ba-8cd0-b8583ac3201e)
+![image](https://github.com/user-attachments/assets/12c162ff-f27f-4da7-b3be-684676a8bbc1)
+
