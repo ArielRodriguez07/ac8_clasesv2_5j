@@ -32,3 +32,5 @@ audifonos = {
 "año": 2024
 }
 print(audifonos)
+for apple in audifonos.items():
+    print(apple)
