@@ -7,6 +7,7 @@ class Datos:
         self.peso=peso
     def mostrar_datos(self):
         print(f"estatura : {self.estatura} mts peso : {self.peso} kg")
+        print("-lista-")
     def mi_lista(self):
         albums=["blond","roy","suave pendiente"]
         print(albums)
@@ -21,11 +22,11 @@ info.mostrar_datos()
 print(" lista de los mejores albums Rodriguez Ariel")
 info.mi_lista()
 #tuplas
-print("Ejemplo de tuplas")
+print("-tuplas-")
 artistas=("frank ocean","zoe","Simon Campusano")
 print(artistas)
 # diccionario
-print("Esto es un ejemplo de diccionario")
+print("-diccionario-")
 audifonos = {
 "marca": "apple",
 "modelo": "version 1.9",
@@ -34,3 +35,6 @@ audifonos = {
 print(audifonos)
 for apple in audifonos.items():
     print(apple)
+print("-sets-")
+canciones = {"murcielago", "viento", "lance"}
+print(canciones)
